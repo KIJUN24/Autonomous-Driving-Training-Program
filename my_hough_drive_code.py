@@ -79,7 +79,7 @@ def start():
 
     image_sub = rospy.Subscriber("/usb_cam/image_raw/",Image,img_callback)
 
-    print "---------- Xycar ----------"
+    print( "---------- Xycar ----------" )
         
     while not rospy.is_shutdown():
 
