@@ -11,4 +11,3 @@ I gained experience with ROS and studied autonomous driving programming using Xy
 
 ***
 
-![Prize](https://github.com/KIJUN24/Autonomous-Driving-Training-Program/blob/master/Autonomous%20Driving%20Award.png)
